@@ -1,0 +1,11 @@
+{
+  "columns": [
+    "id",
+    "partner",
+    "index",
+    "type",
+    "created_at"
+  ],
+  "blobColumns":[
+  ]
+}

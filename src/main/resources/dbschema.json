@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "id",
+    "image",
+    "type"
+  ],
+  "blobColumns":[
+  ]
+}
